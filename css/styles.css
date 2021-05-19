@@ -1,0 +1,155 @@
+ul {
+  margin-left: auto;
+}
+
+#adout p {
+  line-height: 1.5;
+}
+
+#Services h1 {
+  color: #000;
+}
+
+.navbar-brand {
+  margin-left: 20px;
+  color: #126e82;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Montserrat-Black;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+#title {
+  background-color: #a6e3e9;
+}
+
+.nav-link {
+  color: #126e82;
+  font-family: Montserrat-Black;
+  font-size: 1.2rem;
+}
+
+.navbar {
+  color: #126e82;
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+h1 {
+  font-family: Montserrat-Black;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #126e82;
+}
+
+#features h1 {
+  text-align: center;
+}
+
+#contact h1 {
+  text-align: center;
+}
+
+#about h1 {
+  text-align: center;
+}
+
+#about {
+  background-color: #a6e3e9;
+  padding: 20px 10px;
+}
+
+.btn {
+  margin: 5% 3% 5% 0;
+}
+
+.title-img {
+  width: 110%;
+}
+
+#features {
+  padding: 5% 10%;
+  background-color: #efefef;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+h3 {
+  font-family: Montserrat-Bold;
+}
+
+#aboutpara {
+  color: #126e82;
+  line-height: 1.5;
+  font-family: Montserrat-Black;
+  font-size: 1.2 rem;
+  text-align: center;
+}
+
+.container1 {
+  padding: 5%;
+}
+
+.container {
+  padding-top: 5%;
+  text-align: center;
+}
+
+.icon {
+  color: #126e82;
+}
+
+.img {
+  width: 20px;
+  height: 20px;
+}
+
+#contact {
+  background: #efefef;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: #777;
+  align-items: center;
+  text-align: center;
+}
+
+.contact-form {
+  padding: 15px;
+  width: 50%;
+  align-self: center;
+  text-align: center;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-control {
+  border-radius: 0 !important;
+  border: none !important;
+  margin-bottom: 2%;
+}
+
+::placeholder {
+  color: #999;
+}
+
+.follow {
+  background: #fff;
+  padding: 10px;
+  margin: 15px;
+}
+
+.contact-info .fa {
+  margin: 10px;
+  color: #007bff;
+  font-weight: bold;
+}
